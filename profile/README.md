@@ -39,8 +39,8 @@ The goal: a **transparent** root of trust, with no black boxes : reproducible an
 
 | Repo | Contents |
 |---|---|
-| [`hardware`](../../hardware) | Altium sources, Gerbers, BOM, renders, manufacturing notes. |
-| [`firmware`](../../firmware) | The Rust firmware (work in progress). |
+| [`hardware`](https://github.com/PatinaKey/hardware) | Altium sources, Gerbers, BOM, renders, manufacturing notes. |
+| [`firmware`](https://github.com/PatinaKey/firmware) | The Rust firmware (work in progress). |
 
 ## Status
 
