@@ -8,8 +8,8 @@
 Copper for the board, Rust for the firmware.
 
 [![Status](https://img.shields.io/badge/status-in%20development-B06A3C)](https://patinakey.fr)
-[![Hardware](https://img.shields.io/badge/hardware-CERN--OHL--S-6F9587)](#)
-[![Firmware](https://img.shields.io/badge/firmware-Rust-864724)](#)
+[![Hardware](https://img.shields.io/badge/hardware-CERN--OHL--S-6F9587)](https://github.com/PatinaKey/hardware)
+[![Firmware](https://img.shields.io/badge/firmware-Rust-864724)](https://github.com/PatinaKey/firmware)
 [![Web](https://img.shields.io/badge/web-patinakey.fr-2B3331)](https://patinakey.fr)
 
 </div>
